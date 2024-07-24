@@ -8,6 +8,7 @@ Welcome to Quiz4Learn, an interactive and educational quiz application designed 
 1. Welcome Screen
 
 **Form:** When you first open the app, you will see a form where you need to enter your name.
+
 **Get Started Button:** After entering your name, click on the "Get Started" button to proceed.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
